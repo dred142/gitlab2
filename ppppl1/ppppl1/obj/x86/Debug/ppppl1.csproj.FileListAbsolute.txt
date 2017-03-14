@@ -2,3 +2,7 @@ C:\Users\Admin\Documents\Visual Studio 2010\Projects\ppppl1\ppppl1\bin\Debug\ppp
 C:\Users\Admin\Documents\Visual Studio 2010\Projects\ppppl1\ppppl1\bin\Debug\ppppl1.pdb
 C:\Users\Admin\Documents\Visual Studio 2010\Projects\ppppl1\ppppl1\obj\x86\Debug\ppppl1.exe
 C:\Users\Admin\Documents\Visual Studio 2010\Projects\ppppl1\ppppl1\obj\x86\Debug\ppppl1.pdb
+C:\gitwork\gitlab2\ppppl1\ppppl1\obj\x86\Debug\ppppl1.exe
+C:\gitwork\gitlab2\ppppl1\ppppl1\obj\x86\Debug\ppppl1.pdb
+C:\gitwork\gitlab2\ppppl1\ppppl1\bin\Debug\ppppl1.exe
+C:\gitwork\gitlab2\ppppl1\ppppl1\bin\Debug\ppppl1.pdb

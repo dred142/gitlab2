@@ -9,7 +9,8 @@ namespace ppppl1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Работа с Git репозиторием");
+            for (int i = 10; i < 20; i++ )
+                Console.WriteLine("Работа с Git репозиторием");
             Console.ReadLine();
         }
     }
